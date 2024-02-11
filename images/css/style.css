@@ -80,3 +80,42 @@ a {
 .press:focus {
     background-color: #404BBF;
 }
+.bottom-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42 ;
+}
+.text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+.part-third {
+    color:#F4F4FD;
+}
+.middle-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42 ;
+}
+.list-part {
+    background-color: #FFFFFF;
+}
+.bottom-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em ;
+    color:#2e2f42 ;
+
+}
+.text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455 ;
+}
