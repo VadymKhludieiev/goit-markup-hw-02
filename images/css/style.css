@@ -96,6 +96,7 @@ a {
 
 .end-logo-footer {
     color: #f4f4fd;
+    
 }
 
 .end-logo-header {
@@ -132,6 +133,10 @@ a {
     background-color: #404BBF;
 }
 
+.text-footer {
+    background-color:#2e2f42;
+}
 .main-text-footer {
     letter-spacing: 0.02em;
+    
 }
