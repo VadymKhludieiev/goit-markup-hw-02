@@ -3,7 +3,8 @@ body {
     Color: #434455;
     background: #FFF;
 }
-ul,ol {
+ul,
+ol {
     list-style-type: none;
 }
 a {
